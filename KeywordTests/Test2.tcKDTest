@@ -9,16 +9,6 @@
 				</NodeBitmaps>
 			</Extenders>
 		</Data>
-		<Children>
-			<Operation Type="{EEDC9229-5F2A-4450-980E-7EB218C67090}">
-				<Data LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-					<Root Type="1" Operator="0">
-						<Left DefVarType="0" VarType="257" ValueType="6" ValueValue="" />
-						<Right DefVarType="0" VarType="257" ValueType="6" ValueValue="" />
-					</Root>
-				</Data>
-			</Operation>
-		</Children>
 	</TestData>
 	<Parameters Key="{A8BEB770-6EC8-4D8A-9A2A-24DC6E63421A}" />
 </Root>
