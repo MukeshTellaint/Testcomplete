@@ -5,6 +5,7 @@
 			<child name="Script" key="{50B1370E-D833-40F8-8A4D-40A2FF51D91D}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
 			<child name="Events" key="{BF163EAC-5550-46CA-BB2E-73F192C211B5}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" pluginName="" path="Events\Events.tcAX" />
 		</folder>
+		<folder name="Check" />
 		<child name="NameMapping" key="{41BAEA34-8A18-45F7-86AD-869225C7500C}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
 		<child name="KeywordTests" key="{472C3B3D-489C-436B-B5CD-91635893545B}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
 		<child name="Stores" key="{525F24A9-B5C4-4967-A137-ABD3C07C6D2C}" type="Stores" typeId="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" pluginName="Stores" path="Stores\Stores.tcStores" />
