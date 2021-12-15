@@ -1,0 +1,7 @@
+#Fri Oct 29 14:50:01 IST 2021
+password=laps
+bank=Ujjivan
+browser=chrome
+name=mukesh
+URL=192.168.0.152\:9082/lendperfect
+username=RM847
