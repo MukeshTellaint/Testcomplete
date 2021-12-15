@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" version="15.0">
-	<children />
+	<children>
+		<child name="Files" key="{F71B9EC6-822E-4F07-B7EF-50E21C366C32}" type="Files" typeId="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}" pluginName="Stores" path="Files.tcFiles" />
+	</children>
 </Root>
