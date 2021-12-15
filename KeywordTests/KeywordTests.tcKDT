@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Samples">
+			<child name="BrowserAndDataLoop_Sample" key="{C03C7E29-047B-45A6-8F07-9B0A00039193}" path="BrowserAndDataLoop_Sample.tcKDTest" />
+			<child name="BrowserLoop_Sample" key="{1C53CA03-245F-4377-BE17-539542934781}" path="BrowserLoop_Sample.tcKDTest" />
+			<child name="DataLoop_Sample" key="{F7538026-FEFE-4D51-9188-C9A90C1AF514}" path="DataLoop_Sample.tcKDTest" />
+			<child name="SimpleTest_Sample" key="{018273D5-6804-4AB5-9002-CBDC098F8154}" path="SimpleTest_Sample.tcKDTest" />
+			<child name="Test2" key="{46AD8970-E1EF-470C-AC7C-97D8CC896124}" path="Test2.tcKDTest" />
+		</folder>
+	</children>
+</Root>

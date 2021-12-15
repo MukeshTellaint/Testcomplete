@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="SimpleTestJavascript_Sample" key="{F781B94E-43E9-43D3-AFA7-E8832408DDEC}" path="SimpleTestJavascript_Sample.js" />
+		<child name="Events_Handler" key="{E6318575-8EAE-420B-BECF-BB8812B365E8}" path="Events_Handler.js" />
+		<child name="Unit1" key="{A3551FD5-92E1-4C39-BA5A-7221C2ABF5FE}" path="Unit1.js" />
+	</children>
+</Root>
